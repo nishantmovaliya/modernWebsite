@@ -1,2 +1,2 @@
 Modern looking Website
-https://github.com/tograh/testrepository/3DTest.png
+<img src="https://github.com/tograh/testrepository/3DTest.png">
