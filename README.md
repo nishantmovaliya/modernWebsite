@@ -1,2 +1,3 @@
 Modern looking Website
-<img src="https://github.com/tograh/testrepository/3DTest.png">
+<br>
+<img src="https://github.com/nishantmovaliya/modernWebsite/blob/master/ModernWebsite.jpg">
